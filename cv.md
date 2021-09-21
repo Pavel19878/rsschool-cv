@@ -1,76 +1,74 @@
-# ***Матвеев Павел Викторович***
-## ***Возраст 32 года.*** 
-## ***Дата рождения 05 февраля 2021***
+# ***Matveev Pavel Viktorovich***
+## ***Age 32 years.*** 
+## ***Date of birth 05 February 2021***
 Skype: **live:bdb554518170d365**
-Проживает: **Санкт-Петербург**
-### Сфеы деятельности
-* Сервсный специалист, Специалист по процессингу.
-* Специалист по рекламациям.
-* Информационные технологии, интернет, телеком
-* Сервисное обслуживание. 
-**Занятость:**  полная занятость.
-**График работы:** удаленная работа, полный день
-**Желательное время в пути до работы:** не имеет значения
-Опыт работы — **8 лет 7 месяцев**
+Lives in:  **Saint Petersburg**
+### Areas of activity
+* Resource specialist, Processing specialist.
+* Specialist in complaints.
+* Information technologies, Internet, telecom
+* After-sales service.
+** Employment: * * full employment.
+**Work schedule:** remote work, full-time
+** Desirable travel time to work:** doesn't matter
+Work experience — **8 years 7 months**
 
-### ДНС Ритейл Февраль 2018 — настоящее время ###
-3 года 5 месяцев
+### DNS Retail February 2018-present ###
+3 years 5 months
 
-**Логист сервисного отдела** 
-- Организация сервисного обслуживания бытовой техники.
-- Деловая переписка с поставщиками.
-- Взаимодействие с сервисными центрами.
-- Обработка запросов от смежных отделов компании.
-- Организация логистики запчастей.
+** Logistician of the service department**
+- Organization of service maintenance of household appliances.
+- Business correspondence with suppliers.
+- Interaction with service centers.
+- Processing requests from related departments of the company.
+- Organization of spare parts logistics.
 
-### Юлмарт Октябрь 2014 — Январь 2018 ###
-3 года 1 месяц
+### Yulmart October 2014-January 2018 ###
+3 years 1 month
 
-**Специалист по работе с поставщиками**
+** Specialist in working with suppliers**
 
-- детальный осмотр, проверка комплектации изделий перед приёмкой в отдел Центральной гарантии компании Юлмарт.
-- подготовка сопроводительной документации для выполнения гарантийного обслуживания
-- контроль логистики по браку внутри компании
-- контроль сроков нахождения претензии на контрагенте (у постащика)
-- ведение реестра претензий
-- получение компенсации от поставщиков оборудования
-- урегулирование претензии и компенсация брака
-- принятие решений по возврату денежных средств
-- подготовка информационных писем
-- подготовка официальных ответов на запросы
+- detailed inspection, verification of the complete set of products before acceptance to the department of the Central warranty of the company Ulmart.
+- preparation of accompanying documentation for performing warranty service
+- control of logistics for marriage within the company
+- control of the terms of finding a claim on the counterparty (at the postmaster)
+- maintaining a register of claims
+- receiving compensation from equipment suppliers
+- settlement of the claim and compensation for the marriage
+- making decisions on the refund of funds
+- preparation of informational letters
+- preparation of official responses to requests
 
 
-### М. видео Декабрь 2008 — Декабрь 2011 ###
-3 года 1 месяц
+### M. video December 2008-December 2011 ###
+3 years 1 month
 
-**Специалист по работе с рекламациями** 
+** Specialist in dealing with complaints** 
 
-- Передача партий товара в Авторизованные Сервисные Центры, формирование сопроводительной документации
-- Прием партий товара из Сервисных Центров
-- Контроль исполнения сроков ремонта товара и диагностики (по данным отчётов из учетных систем)
-- Контроль качества выполненного ремонта
-- Анализ остатков товарно-материальных ценностей за отчетный период, подлежащих диагностике, ремонту в Сервисных Центрах
-- Ведение архива сопроводительной документации по перемещениям в Сервисные Центры
-- Ведение учета товара с занесением данных в учетную сервисную систему
-- Взаимодействие с сотрудниками Офисов Продаж (торговых точек) по вопросам сервисного обслуживания.
+- Transfer of batches of goods to Authorized Service Centers, formation of accompanying documentation
+- Acceptance of batches of goods from Service Centers
+- Control of the fulfillment of the terms of repair of goods and diagnostics (according to reports from accounting systems)
+- Quality control of the performed repairs
+- Analysis of inventory balances for the reporting period, subject to diagnostics, repair in Service Centers
+- Maintaining an archive of accompanying documentation on transfers to Service Centers
+- Keeping records of goods with entering data into the accounting service system
+- Interaction with employees of Sales Offices (retail outlets) for service issues.
 
-### Образование Высшее ###
+### Higher education ###
 **2012**
-Санкт-Петербургский государственный технологический институт (технический университет) 
-2012 год
-Высшее
-Защиты окружающей среды
-Инженер-Эколог
-Дневная/Очная
+St. Petersburg State Technological Institute (Technical University)
+2012
+Higher
+Environmental protection
+Environmental Engineer
+Daytime/Full-time
 
-### Ключевые навыки ###
-- Знание принципов движения сервисного товара, логистику брака;
-- Порядок организации учета и хранения ТМЦ;
-- Схемы взаимодействия с Авторизованными Сервисными Центрами.
-- Навыки работы с программами, SAP, MS Office (Word, Excel, Outlook)
-### Знание языков ###
+### Key skills ###
+- Knowledge of the principles of movement of service goods, logistics of marriage;
+- The procedure for organizing the accounting and storage of goods and materials;
+- Schemes of interaction with Authorized Service Centers.
+- Skills of working with programs, SAP, MS Office (Word, Excel, Outlook)
+### Knowledge of languages ###
 
-Русский — Родной
-================
-
-Английский — Технический( разговорный на бытовом уровне)
+Russian-Native
+English — Technical (spoken at the household level)
